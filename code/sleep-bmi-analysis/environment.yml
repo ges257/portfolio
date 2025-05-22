@@ -1,0 +1,10 @@
+name: sleep-bmi
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.2
+  - r-dplyr
+  - r-ggplot2
+  - r-nhanes
+  - r-car
+  - r-essentials
