@@ -1,0 +1,10 @@
+# R
+.Rhistory
+.RData
+
+# Python caches
+__pycache__/
+
+# Data directories (only include sample or README)
+**/data/*
+!**/data/README.md
