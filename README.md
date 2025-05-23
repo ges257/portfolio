@@ -6,7 +6,7 @@
 
 - [Sleep–BMI Analysis](code/sleep-bmi-analysis)
 
-- [Gregory vs ChatGPT Image Denoising Challenge](code/gregory-vs-chatgpt-image-denoising-challenge)  ← placeholder
+- [Gregory vs ChatGPT Image Denoising Challenge](code/gregory-vs-chatgpt-image-denoising-challenge)  
 
 
 ## Reports
