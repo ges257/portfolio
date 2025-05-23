@@ -17,8 +17,8 @@ After running this, you’ll see ChatGPT’s static results in the PDF and can o
 ## Files
 
 - `rainbow-image-denoising-gregory.ipynb` — my human-written notebook  
-- `rainbow-image-denoising-chatgpt.ipynb` — ChatGPT’s notebook (for reference)  
-- `chatgpt-denoising-results.pdf` — static PDF of ChatGPT outputs  
+- `rainbow-image-denoising-chatgpt.pdf` —  static PDF of ChatGPT outputs
+  
 
 ## Notes
 
