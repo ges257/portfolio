@@ -19,8 +19,14 @@ After running this, you’ll see ChatGPT’s static results in the PDF and can o
 - `rainbow-image-denoising-gregory.ipynb` — my human-written notebook  
 - `rainbow-image-denoising-chatgpt.pdf` —  static PDF of ChatGPT outputs
   
+## Visual Workflow
+
+| Original (`rainbow.jpg`) | Final Cleaned Output |
+|:------------------------:|:--------------------:|
+| ![Original](images/rainbow.jpg) | ![Cleaned](images/33final_cleaned_image_hybrid_tv_nlm.png) |
+
+
 
 ## Notes
 
-- **API Key**: The ChatGPT notebook requires setting the `OPENAI_API_KEY` environment variable before running.  
 - **License**: All rights reserved — for viewing purposes only.  
