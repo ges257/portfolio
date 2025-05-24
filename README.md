@@ -2,20 +2,27 @@
 
 > A continuously updated showcase of my coursework, AI/ML experiments, and engineering projects.
 
-## Code 
+> [LinkedIn](https://www.linkedin.com/in/gregory-e-schwartz/)
 
-- [Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity](code/sleep-bmi-analysis)
+## Code Projects
 
-- [Gregory vs ChatGPT Image Denoising Challenge](code/gregory-vs-chatgpt-image-denoising-challenge)  
+- **Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity**  
+  Logistic regression on NHANES data to explore how physical activity moderates the link between BMI and sleep trouble.
 
-- [Forward–Inverse Kinematics](code/forward-inverse-kinematics)
+- **Gregory vs ChatGPT Image Denoising Challenge**  
+  Compare a custom image-denoising pipeline against ChatGPT’s static PDF outputs and visualize before/after results.
 
-- [GPS Positioning](code/gps-positioning)
+- **Forward–Inverse Kinematics**  
+  Implement fixed-point, bisection, and Newton methods to solve forward and inverse kinematics problems numerically.
 
-- [SVD Image Compression](code/svd-image-compression)
+- **GPS Positioning**  
+  Newton-method solver for GPS receiver position and clock bias plus conditioning analysis via ±1×10⁻⁸s travel-time perturbations.
 
-- [Molecular Conformation Numerical Optimization](code/molecular-conformation-numerical-optimization)
+- **SVD Image Compression**  
+  Manual SVD on each RGB channel to compress an image, quantify reconstruction error, and measure memory savings.
 
+- **Molecular Conformation Numerical Optimization**  
+  Optimize a molecule’s atomic coordinates using gradient-based numerical methods to minimize potential energy.
 
 ## Reports
 
