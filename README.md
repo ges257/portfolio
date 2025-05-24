@@ -14,6 +14,8 @@
 
 - [SVD Image Compression](code/svd-image-compression)
 
+- [Molecular Conformation Numerical Optimization](code/molecular-conformation-numerical-optimization)
+
 
 ## Reports
 
@@ -26,4 +28,7 @@
 - [GPS Positioning](reports/gps-positioning/GPS_positioning.pdf)
 
 - [SVD Image Compression](reports/svd-image-compression/SVD_image_compression.pdf)
+
+- [Molecular Conformation Numerical Optimization](reports/molecular-conformation-numerical-optimization/mc_no.pdf)
+
 
