@@ -1,7 +1,7 @@
 # SVD Image Compression
 
 This project implements manual SVD–based compression on color image channels:
-- Avoids built-in svd() or eigen-decomposition functions
+- Avoids built-in SVD or eigen-decomposition functions
 - Compresses each RGB channel separately
 - Quantifies reconstruction error and memory savings
 
@@ -17,7 +17,7 @@ jupyter notebook SVD_image_compression.ipynb
 
 ## Files
 
-- `environment.yml` — Conda dependencies  
+- `environment.yml` — conda dependencies  
 - `SVD_image_compression.ipynb` — compression notebook  
 - `original_image.jpg` — input image  
 - `SVD_image_compression.pdf` — project report  
