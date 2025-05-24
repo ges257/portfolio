@@ -1,27 +1,27 @@
-# M.S. AI Engineering Portfolio of Gregory E. Schwartz
+# M.S. AI Engineering Portfolio - Gregory E. Schwartz
 
 > A continuously updated showcase of my coursework, AI/ML experiments, and engineering projects.
 
-> [LinkedIn](https://www.linkedin.com/in/gregory-e-schwartz/)
+> [My LinkedIn](https://www.linkedin.com/in/gregory-e-schwartz/)
 
 ## Code Projects
 
-- **Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity**  
+- [Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity](code/sleep-bmi-analysis)  
   Logistic regression on NHANES data to explore how physical activity moderates the link between BMI and sleep trouble.
 
-- **Gregory vs ChatGPT Image Denoising Challenge**  
+- [Gregory vs ChatGPT Image Denoising Challenge](code/gregory-vs-chatgpt-image-denoising-challenge)  
   Compare a custom image-denoising pipeline against ChatGPT’s static PDF outputs and visualize before/after results.
 
-- **Forward–Inverse Kinematics**  
+- [Forward–Inverse Kinematics](code/forward-inverse-kinematics)  
   Implement fixed-point, bisection, and Newton methods to solve forward and inverse kinematics problems numerically.
 
-- **GPS Positioning**  
-  Newton-method solver for GPS receiver position and clock bias plus conditioning analysis via ±1×10⁻⁸s travel-time perturbations.
+- [GPS Positioning](code/gps-positioning)  
+  Newton-method solver for GPS receiver position and clock bias plus conditioning analysis via ±1×10⁻⁸ s travel-time perturbations.
 
-- **SVD Image Compression**  
+- [SVD Image Compression](code/svd-image-compression)  
   Manual SVD on each RGB channel to compress an image, quantify reconstruction error, and measure memory savings.
 
-- **Molecular Conformation Numerical Optimization**  
+- [Molecular Conformation Numerical Optimization](code/molecular-conformation-numerical-optimization)  
   Optimize a molecule’s atomic coordinates using gradient-based numerical methods to minimize potential energy.
 
 ## Reports
