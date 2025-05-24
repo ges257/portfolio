@@ -12,6 +12,8 @@
 
 - [GPS Positioning](code/gps-positioning)
 
+- [SVD Image Compression](code/svd-image-compression)
+
 
 ## Reports
 
@@ -22,3 +24,6 @@
 - [Forward–Inverse Kinematics](reports/forward-inverse-kinematics/forward_and_inverse_kinematics.pdf)
 
 - [GPS Positioning](reports/gps-positioning/GPS_positioning.pdf)
+
+- [SVD Image Compression](reports/svd-image-compression/SVD_image_compression.pdf)
+
