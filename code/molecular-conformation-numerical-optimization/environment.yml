@@ -1,0 +1,9 @@
+name: molecular-conformation-numerical-optimization
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyter
