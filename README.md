@@ -4,7 +4,7 @@
 
 > [My LinkedIn](https://www.linkedin.com/in/gregory-e-schwartz/)
 
-## Code Projects
+## Code 
 
 - [Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity](code/sleep-bmi-analysis)  
   Logistic regression on NHANES data to explore how physical activity moderates the link between BMI and sleep trouble.
