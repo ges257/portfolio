@@ -4,14 +4,15 @@
 
 ## Code Projects
 
-- [Sleep–BMI Analysis](code/sleep-bmi-analysis)
+- [Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity](code/sleep-bmi-analysis)
+
 
 - [Gregory vs ChatGPT Image Denoising Challenge](code/gregory-vs-chatgpt-image-denoising-challenge)  
 
 
 ## Reports
 
-- [Sleep–BMI Report](reports/SleepBMI_Adults30_PhysActivity_Final.pdf)
+- [Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity](reports/SleepBMI_Adults30_PhysActivity_Final.pdf)
 
 - [Gregory vs ChatGPT Image Denoising Challenge](reports/gregory-vs-chatgpt-image-denoising-challenge.pdf)
 
