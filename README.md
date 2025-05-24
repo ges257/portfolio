@@ -6,8 +6,9 @@
 
 - [Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity](code/sleep-bmi-analysis)
 
-
 - [Gregory vs ChatGPT Image Denoising Challenge](code/gregory-vs-chatgpt-image-denoising-challenge)  
+
+- [Forward–Inverse Kinematics](code/forward-inverse-kinematics)
 
 
 ## Reports
@@ -16,3 +17,4 @@
 
 - [Gregory vs ChatGPT Image Denoising Challenge](reports/gregory-vs-chatgpt-image-denoising-challenge.pdf)
 
+- [Forward–Inverse Kinematics](reports/forward-inverse-kinematics/forward_and_inverse_kinematics.pdf)
