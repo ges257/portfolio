@@ -1,4 +1,4 @@
-# Sleep–BMI Moderation Analysis
+# Sleep Trouble and BMI in Adults Over 30: Testing the Moderating Role of Physical Activity
 
 Logistic regression of sleep trouble as a function of BMI and physical activity using NHANES data for adults 30+.
 
