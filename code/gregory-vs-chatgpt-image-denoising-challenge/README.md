@@ -18,6 +18,9 @@ After running this, you’ll see ChatGPT’s static results in the PDF and can o
 
 - `rainbow-image-denoising-gregory.ipynb` — my human-written notebook  
 - `rainbow-image-denoising-chatgpt.pdf` —  static PDF of ChatGPT outputs
+- **images/** — input/output gallery  
+  - `rainbow.jpg` — the noisy original  
+  - `33final_cleaned_image_hybrid_tv_nlm.png` — my final cleaned output
   
 ## Visual Workflow
 
