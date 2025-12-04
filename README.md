@@ -1,4 +1,4 @@
-# M.S. AI Engineering Portfolio - Gregory E. Schwartz
+# AI/ML Engineering Portfolio - Gregory E. Schwartz
 
 > A continuously updated showcase of my coursework, AI/ML experiments, and engineering projects.
 
